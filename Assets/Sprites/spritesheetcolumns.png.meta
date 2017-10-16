@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: 43dab872e68424873a5ba7a1507a1145
+timeCreated: 1481142506
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheetcolumns_0
+    21300002: spritesheetcolumns_1
+    21300004: spritesheetcolumns_2
+    21300006: spritesheetcolumns_3
+    21300008: spritesheetcolumns_4
+    21300010: spritesheetcolumns_5
+    21300012: spritesheetcolumns_6
+    21300014: spritesheetcolumns_7
+    21300016: spritesheetcolumns_8
+    21300018: spritesheetcolumns_9
+    21300020: spritesheetcolumns_10
+    21300022: spritesheetcolumns_11
+    21300024: spritesheetcolumns_12
+    21300026: spritesheetcolumns_13
+    21300028: spritesheetcolumns_14
+    21300030: spritesheetcolumns_15
+    21300032: spritesheetcolumns_16
+    21300034: spritesheetcolumns_17
+    21300036: spritesheetcolumns_18
+    21300038: spritesheetcolumns_19
+    21300040: spritesheetcolumns_20
+    21300042: spritesheetcolumns_21
+    21300044: spritesheetcolumns_22
+    21300046: spritesheetcolumns_23
+    21300048: spritesheetcolumns_24
+    21300050: spritesheetcolumns_25
+    21300052: spritesheetcolumns_26
+    21300054: spritesheetcolumns_27
+    21300056: spritesheetcolumns_28
+    21300058: spritesheetcolumns_29
+    21300060: spritesheetcolumns_30
+    21300062: spritesheetcolumns_31
+    21300064: spritesheetcolumns_32
+    21300066: spritesheetcolumns_33
+    21300068: spritesheetcolumns_34
+    21300070: spritesheetcolumns_35
+    21300072: spritesheetcolumns_36
+    21300074: spritesheetcolumns_37
+    21300076: spritesheetcolumns_38
+    21300078: spritesheetcolumns_39
+    21300080: spritesheetcolumns_40
+    21300082: spritesheetcolumns_41
+    21300084: spritesheetcolumns_42
+    21300086: spritesheetcolumns_43
+    21300088: spritesheetcolumns_44
+    21300090: spritesheetcolumns_45
+    21300092: spritesheetcolumns_46
+    21300094: spritesheetcolumns_47
+    21300096: spritesheetcolumns_48
+    21300098: spritesheetcolumns_49
+    21300100: spritesheetcolumns_50
+    21300102: spritesheetcolumns_51
+    21300104: spritesheetcolumns_52
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheetcolumns_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 505
+        width: 110
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 514
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 520
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 516
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 524
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_5
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 520
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_6
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 521
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_7
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 521
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 517
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 428
+        width: 108
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 436
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 436
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 432
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_13
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 436
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_14
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 437
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_15
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 437
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 346
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 349
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 352
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_19
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 348
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_20
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 356
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_21
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 352
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_22
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 353
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_23
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 353
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_24
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 349
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 264
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_26
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 269
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 268
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 269
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_29
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 268
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_30
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 269
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_31
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 269
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_32
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 180
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_33
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 185
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_34
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 177
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_35
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 185
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_36
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 184
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_37
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 185
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_38
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 185
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_39
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 96
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_40
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 101
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_41
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 94
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_42
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 97
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_43
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 100
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_44
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 100
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_45
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 101
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_46
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 12
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 17
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_48
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 11
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_49
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 17
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_50
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 5
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_51
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 16
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheetcolumns_52
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 17
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
